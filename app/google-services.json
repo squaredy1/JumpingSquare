@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "844701370256",
+    "firebase_url": "https://squaredy-fb3a5.firebaseio.com",
+    "project_id": "squaredy-fb3a5",
+    "storage_bucket": "squaredy-fb3a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844701370256:android:201ba9a430722085",
+        "android_client_info": {
+          "package_name": "com.jorgegallego.jumpingsquare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844701370256-p3oeeg7h79pjlgtl8g4fj9ur6oda3224.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jorgegallego.jumpingsquare",
+            "certificate_hash": "115cb873bd49c56f8ea7503e44a115103431c9d5"
+          }
+        },
+        {
+          "client_id": "844701370256-ns08t5ag4nsbvs2gbb9clgq64jujq11n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVsp_A1V-aGPD4w3I87XEku3UBy68PTuw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844701370256-ns08t5ag4nsbvs2gbb9clgq64jujq11n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
